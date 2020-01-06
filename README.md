@@ -4,11 +4,10 @@ it has a auto updater and a login with mysql
 i have been working on this for a bit but now i dont have to much time any more so i am releasing the project to the public
 here is the last Changelog
 
-----------------------------Changelog-------------------------------
+V5.10.7.12 - Public Beta 4
 
-----------------------V5.10.7.12 - Public Beta 4--------------------
+New
 
-------------------------------New-----------------------------------
 +redone the login feature
 +added New Mod Tools
 +added New Video Player
@@ -18,10 +17,12 @@ here is the last Changelog
 +added A New Download Link for All Downloads
 +redone the updater
 -Removed The ProgressBar From all Tabs
-------------------------------Fix-----------------------------------
+Fix
+
 Fix Some of the Downlod Links
 
-------------------------------V4.10.6.12----------------------------
+V4.10.6.12-
+
 +added a new auto updater
 +added Some New PC Tools
 +added A New Welcome feature With Links
@@ -29,7 +30,8 @@ Fix Some of the Downlod Links
 +Move and cleaned up the addons and Tools UI
 fix the Download server for the auto updater
 Fix Some of the Download feature
---------------------------------------------------------------------
+
+
 +added Register and Password Rest feature to the site for the app
 +added a new login and Register feature
 +cleaned up the UI
