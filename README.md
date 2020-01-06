@@ -50,7 +50,7 @@ Fix Login System
 
 you will need 
 Visual Studios 2015
-.Netn framework 4.7.2 developer
+.Net framework 4.7.2 developer
 a website with RemoteMysql
 if your website dose not offer RemoteMysql
 i am using RemoteMysql.com for it right now
