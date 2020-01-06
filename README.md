@@ -52,4 +52,4 @@ you will need
 Visual Studios 2015
 a website with RemoteMysql
 if your website dose not offer RemoteMysql
-i am useing RemoteMysql.com for it right now
+i am using RemoteMysql.com for it right now
