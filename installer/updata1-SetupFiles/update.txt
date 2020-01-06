@@ -1,0 +1,18 @@
+;aiu;
+
+[Update]
+Name = Cyber Hacks Tool
+ProductVersion = 4.10.6.12
+URL = https://updater.twistedxmodz.com/CyberHacks%20Mod%20Tool.exe
+Size = 12252302
+MD5 = 97b73e801b0d8e90e375af84325b07e3
+ServerFileName = Cyber Hacks Mod Tool.exe
+RegistryKey = HKUD\Software\TwistedXModz.com\Cyber Hacks Tool\Version
+Version = 4.10.6.12
+Feature = +added a new auto updater
+Feature1 = +added Some New PC Tools
+Feature2 = +added A New Welcome feature With Links
+Feature3 = +added Menu Bar to the Home Page
+Feature4 = +Move and cleaned up the addons and Tools UI
+BugFix = fix the Download server for the auto updater
+BugFix1 = Fix Some of the Download feature

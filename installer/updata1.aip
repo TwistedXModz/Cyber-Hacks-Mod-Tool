@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="14.6" version="14.6" Modules="update" RootPath="." Language="en" Id="{3D5C592F-ECAA-4B7F-AE72-BD32E01E0D9A}">
+  <COMPONENT cid="caphyon.advinst.msicomp.ProjectOptionsComponent">
+    <ROW Name="HiddenItems" Value="TilesComponent"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.UpdaterEditorComponent">
+    <ROW Section="Update" Key="Name" Value="Cyber Hacks Tool"/>
+    <ROW Section="Update" Key="ProductVersion" Value="4.10.6.12" ValueLocId="-"/>
+    <ROW Section="Update" Key="URL" Value="https://updater.twistedxmodz.com/CyberHacks%20Mod%20Tool.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="Size" Value="Cyber Hacks Mod Tool-SetupFiles\Cyber Hacks Mod Tool.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="MD5" Value="Cyber Hacks Mod Tool-SetupFiles\Cyber Hacks Mod Tool.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="ServerFileName" Value="Cyber Hacks Mod Tool.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="RegistryKey" Value="HKUD\Software\TwistedXModz.com\Cyber Hacks Tool\Version" ValueLocId="-"/>
+    <ROW Section="Update" Key="Version" Value="4.10.6.12" ValueLocId="-"/>
+    <ROW Section="Update" Key="Feature" Value="+added a new auto updater&#13;&#10;+added Some New PC Tools&#13;&#10;+added A New Welcome feature With Links&#13;&#10;+added Menu Bar to the Home Page&#13;&#10;+Move and cleaned up the addons and Tools UI"/>
+    <ROW Section="Update" Key="BugFix" Value="fix the Download server for the auto updater&#13;&#10;Fix Some of the Download feature"/>
+    <ATTRIBUTE name="OutputFileName" value=".txt"/>
+  </COMPONENT>
+</DOCUMENT>

@@ -1,0 +1,10 @@
+----------------------------Changelog-------------------------------
+
+----------------------V1.5.6.4 - Beta 1--------------------
+
+------------------------------New-----------------------------------
+added admin panels for all Twisted X Modz and Cyber Hacks Servers
+added Server Status Page on the Home Screen
+added a auto updater
+---------------------------------------------------------------------
+!!still more to come!!
