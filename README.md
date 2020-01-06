@@ -1,4 +1,4 @@
-# Cyber Hacks Mod Tool Code Project
+# Cyber Hacks Mod Tool Project
 this is a Mod Tool for XBox 360 and PC it is codded in VB 
 it has a auto updater and a login with mysql 
 i have been working on this for a bit but now i dont have to much time any more so i am releasing the project to the public
